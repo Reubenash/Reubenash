@@ -1,4 +1,4 @@
-👋 Hello there, I’m Reuben
+**👋 Hello there, I’m Reuben**
 - 🤓 I’m currently pursuing BE(comp)
 - 🌱 I'm currently learning React and NodeJS
 - ⚡ I like playing 🏏and 🎮
